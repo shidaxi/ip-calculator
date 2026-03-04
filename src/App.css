@@ -1,0 +1,31 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.result-table th {
+  width: 40%;
+  text-align: right;
+  font-style: italic;
+  font-weight: 500;
+  background-color: #f8f9fa;
+  vertical-align: middle;
+}
+
+.result-table td {
+  width: 60%;
+  vertical-align: middle;
+}
+
+.calculator-form {
+  border: 1px solid #dee2e6;
+}
+
+.nav-tabs .nav-link {
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.text-break {
+  word-break: break-all;
+}
